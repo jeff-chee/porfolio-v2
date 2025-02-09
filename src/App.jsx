@@ -15,7 +15,7 @@ function App() {
     <DarkModeProvider>
       <Topbar />
 
-      <div className="mx-auto max-w-screen-md px-4">
+      <div className="mx-auto max-w-screen-sm px-4">
         <Profile />
 
         <Typewriter />
@@ -25,7 +25,7 @@ function App() {
 
           <div className="font-light">
             {
-              "Hi, I am a Front-End Developer with a strong background in building high-performance web applications, dashboards, and e-commerce platforms. With experience in React and Vue.js, I specialize in crafting seamless, scalable, and user-friendly interfaces."
+              "Hi, I am a Front-End Developer with a passion for with a passion for creating visually appealing and user-friendly websites. Seeking a challenging role to contribute my expertise in front-end development and collaborate with a talented team to deliver outstanding user experiences."
             }
           </div>
         </Section>

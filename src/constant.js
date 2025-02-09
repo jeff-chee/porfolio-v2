@@ -36,14 +36,14 @@ export const projects = [
   },
   {
     name: "Web Order",
-    desc: "A web-based food ordering platform inspired by FeedMe, allowing users to browse restaurant menus, add food and drinks to their cart, and place orders seamlessly.",
+    desc: "A web-based food ordering platform inspired by FeedMe, allowing users to browse restaurant menus, add food and drinks to their cart, and place orders.",
     link: "https://weborder.byebug.io/?uuid=fef180ea-1e23-405d-98c2-b513491b7814&t=aeb0c665-36c9-4b28-bc9a-3ea33caabe58",
     img: "/projects/web-order.png",
     techStack: ["React", "Redux", "Ant Design", "Tailwind CSS"],
   },
   {
     name: "Monolith Nutrition",
-    desc: "An e-commerce website with a seamless user experience, allowing customers to register accounts, browse products, add items to their cart, and complete orders securely.",
+    desc: "An e-commerce website allowing customers to register accounts, browse products, add items to their cart, and complete orders securely.",
     link: "https://www.monolithnutrition.com",
     img: "/projects/monolith-nutrition.png",
     techStack: ["React", "Redux", "Ant Design"],
@@ -71,9 +71,9 @@ export const projects = [
   },
   {
     name: "Foxland",
-    desc: "A fully functional online gaming platform featuring a variety of interactive games, secure payment integrations, and a seamless user experience.",
+    desc: "An online gaming platform featuring a variety of interactive games, secure payment integrations, and a seamless user experience.",
     link: "https://elephanttechsolutions.com",
-    img: "/projects/foxland.png",
+    img: "/projects/foxland.svg",
     techStack: ["Vue.js", "Pinia"],
   },
   {
