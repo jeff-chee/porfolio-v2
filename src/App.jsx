@@ -25,7 +25,7 @@ function App() {
 
           <div className="font-light">
             {
-              "Hi, I am a Front-End Developer with a passion for with a passion for creating visually appealing and user-friendly websites. Seeking a challenging role to contribute my expertise in front-end development and collaborate with a talented team to deliver outstanding user experiences."
+              "Hi, I'm a web developer with a passion for front end development and design. As a software engineer, I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences."
             }
           </div>
         </Section>
