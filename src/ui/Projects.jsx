@@ -25,7 +25,7 @@ function Projects({ project }) {
     "BNI Malaysia Event App": "max-w-[150px]",
     "Bijak Web": "max-w-[200px]",
     Foxland: "max-w-[200px]",
-    "Old Portfolio": "w-full",
+    "Old Portfolio": "w-full h-full object-cover",
   };
 
   return (

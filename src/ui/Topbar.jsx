@@ -1,4 +1,4 @@
-import { useDarkMode } from "../context/DarkModeContext";
+import { useDarkMode } from "../hooks/useDarkMode";
 import logo from "/topbar-logo.png";
 import { AiOutlineMoon, AiOutlineSun } from "react-icons/ai";
 import { motion } from "motion/react";
