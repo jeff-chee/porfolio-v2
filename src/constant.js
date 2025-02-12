@@ -33,13 +33,15 @@ export const projects = [
     link: "https://www.subcaponi.com",
     img: "/projects/subcaponi.png",
     techStack: ["React", "TanStack Query", "Ant Design", "Tailwind CSS"],
+    status: "in-progress",
   },
   {
     name: "Web Order",
     desc: "A web-based food ordering platform inspired by FeedMe, allowing users to browse restaurant menus, add food and drinks to their cart, and place orders.",
-    link: "https://weborder.byebug.io/?uuid=fef180ea-1e23-405d-98c2-b513491b7814&t=aeb0c665-36c9-4b28-bc9a-3ea33caabe58",
+    link: "https://weborder.byebug.io",
     img: "/projects/web-order.png",
     techStack: ["React", "Redux", "Ant Design", "Tailwind CSS"],
+    status: "finished",
   },
   {
     name: "Monolith Nutrition",
@@ -47,6 +49,7 @@ export const projects = [
     link: "https://www.monolithnutrition.com",
     img: "/projects/monolith-nutrition.png",
     techStack: ["React", "Redux", "Ant Design"],
+    status: "finished",
   },
   {
     name: "MedicAlert",
@@ -54,6 +57,7 @@ export const projects = [
     link: "https://www.medicalert.org.my",
     img: "/projects/medicalert.png",
     techStack: ["React", "Redux", "Bootstrap"],
+    status: "finished",
   },
   {
     name: "BNI Malaysia Event App",
@@ -61,6 +65,7 @@ export const projects = [
     link: "https://nc24.bnimalaysia.com",
     img: "/projects/bni.png",
     techStack: ["React", "Redux"],
+    status: "finished",
   },
   {
     name: "Bijak Web",
@@ -68,6 +73,7 @@ export const projects = [
     link: "https://www.bijak.app",
     img: "/projects/bijak.png",
     techStack: ["React", "Tailwind CSS"],
+    status: "in-progress",
   },
   {
     name: "Foxland",
@@ -75,6 +81,7 @@ export const projects = [
     link: "https://elephanttechsolutions.com",
     img: "/projects/foxland.svg",
     techStack: ["Vue.js", "Pinia"],
+    status: "finished",
   },
   {
     name: "Old Portfolio",
@@ -82,5 +89,6 @@ export const projects = [
     link: "https://superlative-creponne-4b3cf0.netlify.app",
     img: "/projects/old-portfolio.webp",
     techStack: ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
+    status: "finished",
   },
 ];

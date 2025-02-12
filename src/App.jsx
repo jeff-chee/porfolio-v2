@@ -15,7 +15,7 @@ function App() {
     <DarkModeProvider>
       <Topbar />
 
-      <div className="mx-auto max-w-screen-sm px-4">
+      <div className="mx-auto max-w-screen-md px-4">
         <Profile />
 
         <Typewriter />
