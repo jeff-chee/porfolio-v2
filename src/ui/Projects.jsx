@@ -26,7 +26,7 @@ const imgSizes = {
 };
 
 function Projects({ project }) {
-  const { link, name, img, desc, techStack, status } = project;
+  const { link, name, img, desc, techStack, status, linkUrl } = project;
 
   return (
     <div className="flex flex-col gap-2">
@@ -44,7 +44,7 @@ function Projects({ project }) {
             </span>
             <a
               className="text-sm text-blue-500 hover:underline dark:text-[#f472b6]"
-              href={link}
+              href={linkUrl}
               target="_blank"
             >
               {link}
