@@ -94,8 +94,8 @@ export const projects = [
   {
     name: "Old Portfolio",
     desc: "An old portfolio site built with Bootstrap and jQuery",
-    link: "https://superlative-creponne-4b3cf0.netlify.app",
-    linkUrl: "https://superlative-creponne-4b3cf0.netlify.app",
+    link: "https://v1-jeffchee.vercel.app/",
+    linkUrl: "https://v1-jeffchee.vercel.app/",
     img: "/projects/old-portfolio.webp",
     techStack: ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
     status: "finished",
