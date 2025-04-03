@@ -3,7 +3,7 @@ import profileImg from "/jeff.jpg";
 
 function Profile() {
   return (
-    <div className="my-8 flex items-start justify-between">
+    <div className="flex items-start justify-between py-8">
       <div>
         <div className="text-4xl font-semibold tracking-wider">Jeff Chee</div>
         <div className="mb-2 font-light">Front-End Developer</div>
