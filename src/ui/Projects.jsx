@@ -11,7 +11,7 @@ const imgBgColor = {
   "BNI Malaysia Event App": `${imgBgCss} bg-white`,
   "Bijak Web": `${imgBgCss} bg-[#A14ABA]`,
   Foxland: `${imgBgCss} bg-[#1a1f36]`,
-  "Old Portfolio": imgBgCss,
+  "Portfolio V1": imgBgCss,
 };
 
 const imgSizes = {
