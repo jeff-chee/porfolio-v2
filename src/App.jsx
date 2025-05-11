@@ -1,3 +1,5 @@
+import { Analytics } from "@vercel/analytics/react";
+
 import { DarkModeProvider } from "./context/DarkModeContext";
 import Topbar from "./ui/Topbar";
 import Footer from "./ui/Footer";
@@ -51,6 +53,8 @@ function App() {
         </Section>
 
         <Footer />
+
+        <Analytics />
       </div>
     </DarkModeProvider>
   );
