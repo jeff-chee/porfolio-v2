@@ -1,6 +1,14 @@
 export const workingExperience = [
   {
-    duration: "Dec 2023 - Present",
+    duration: "Sep 2024 - Present",
+    jobTitle: "Senior Front-End Developer",
+    company: "Huwei Holding",
+    summary:
+      "Build and maintain the core admin dashboard for our payment gateway system. Work closely with cross-functional teams, including developers and designers to implement scalable React interfaces for complex user management and gateway configuration, while ensuring the stability and performance of mission-critical jQuery legacy systems.",
+    techStack: ["JavaScript", "React", "jQuery"],
+  },
+  {
+    duration: "Dec 2023 - Aug 2025",
     jobTitle: "Senior Front-End Developer",
     company: "Bye Bug IT Consulting",
     summary:
@@ -18,7 +26,7 @@ export const workingExperience = [
   {
     duration: "Jun 2021 - Aug 2023",
     jobTitle: "Senior Front-End Developer",
-    prevJobTitle: "Junior Front-End Developer",
+    // prevJobTitle: "Junior Front-End Developer",
     company: "GHERO",
     summary:
       "Progressed from Junior to Senior Front-End Developer, working closely with designers, back-end developers to create new websites for organizations.",
@@ -46,15 +54,15 @@ export const projects = [
   //   techStack: ["React", "Redux", "Ant Design", "Tailwind CSS"],
   //   status: "finished",
   // },
-  {
-    name: "Monolith Nutrition",
-    desc: "An e-commerce website allowing customers to register accounts, browse products, add items to their cart, and complete orders securely.",
-    link: "https://www.monolithnutrition.com",
-    linkUrl: "https://www.monolithnutrition.com",
-    img: "/projects/monolith-nutrition.png",
-    techStack: ["React", "Redux", "Ant Design"],
-    status: "finished",
-  },
+  // {
+  //   name: "Monolith Nutrition",
+  //   desc: "An e-commerce website allowing customers to register accounts, browse products, add items to their cart, and complete orders securely.",
+  //   link: "https://www.monolithnutrition.com",
+  //   linkUrl: "https://www.monolithnutrition.com",
+  //   img: "/projects/monolith-nutrition.png",
+  //   techStack: ["React", "Redux", "Ant Design"],
+  //   status: "finished",
+  // },
   {
     name: "MedicAlert",
     desc: "Collaborated with a Full-Stack Developer to build a responsive website that allows users to register, update medical information, and renew memberships.",
@@ -73,24 +81,24 @@ export const projects = [
   //   techStack: ["React", "Redux"],
   //   status: "finished",
   // },
-  // {
-  //   name: "Bijak Web",
-  //   desc: "An in-house marketing company website that provide HR and POS Solutions.",
-  //   link: "https://www.bijak.app",
-  //   linkUrl: "https://www.bijak.app",
-  //   img: "/projects/bijak.png",
-  //   techStack: ["React", "Tailwind CSS"],
-  //   status: "in-progress",
-  // },
   {
-    name: "Foxland",
-    desc: "An online gaming platform featuring a variety of interactive games, secure payment integrations, and a seamless user experience.",
-    link: "https://elephanttechsolutions.com",
-    linkUrl: "https://elephanttechsolutions.com",
-    img: "/projects/foxland.svg",
-    techStack: ["Vue.js", "Pinia"],
-    status: "finished",
+    name: "Bijak Web",
+    desc: "An in-house marketing company website that provide HR and POS Solutions.",
+    link: "https://www.bijak.app",
+    linkUrl: "https://www.bijak.app",
+    img: "/projects/bijak.png",
+    techStack: ["React", "Tailwind CSS"],
+    status: "in-progress",
   },
+  // {
+  //   name: "Foxland",
+  //   desc: "An online gaming platform featuring a variety of interactive games, secure payment integrations, and a seamless user experience.",
+  //   link: "https://elephanttechsolutions.com",
+  //   linkUrl: "https://elephanttechsolutions.com",
+  //   img: "/projects/foxland.svg",
+  //   techStack: ["Vue.js", "Pinia"],
+  //   status: "finished",
+  // },
   {
     name: "Portfolio V1",
     desc: "An old portfolio site built with Bootstrap and jQuery",
