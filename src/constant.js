@@ -44,16 +44,16 @@ export const projects = [
   //   techStack: ["React", "TanStack Query", "Ant Design", "Tailwind CSS"],
   //   status: "in-progress",
   // },
-  // {
-  //   name: "Web Order",
-  //   desc: "A web-based food ordering platform inspired by FeedMe, allowing users to browse restaurant menus, add food and drinks to their cart, and place orders.",
-  //   link: "https://weborder.byebug.io",
-  //   linkUrl:
-  //     "https://weborder.byebug.io/?uuid=fef180ea-1e23-405d-98c2-b513491b7814&t=aeb0c665-36c9-4b28-bc9a-3ea33caabe58",
-  //   img: "/projects/web-order.png",
-  //   techStack: ["React", "Redux", "Ant Design", "Tailwind CSS"],
-  //   status: "finished",
-  // },
+  {
+    name: "Web Order",
+    desc: "A web-based food ordering platform inspired by FeedMe, allowing users to browse restaurant menus, add food and drinks to their cart, and place orders.",
+    link: "https://weborder.byebug.io",
+    linkUrl:
+      "https://weborder.byebug.io/?uuid=fef180ea-1e23-405d-98c2-b513491b7814&t=aeb0c665-36c9-4b28-bc9a-3ea33caabe58",
+    img: "/projects/web-order.png",
+    techStack: ["React", "Redux", "Ant Design", "Tailwind CSS"],
+    status: "finished",
+  },
   // {
   //   name: "Monolith Nutrition",
   //   desc: "An e-commerce website allowing customers to register accounts, browse products, add items to their cart, and complete orders securely.",
