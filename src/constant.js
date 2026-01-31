@@ -88,7 +88,7 @@ export const projects = [
     linkUrl: "https://www.bijak.app",
     img: "/projects/bijak.png",
     techStack: ["React", "Tailwind CSS"],
-    status: "in-progress",
+    status: "finished",
   },
   // {
   //   name: "Foxland",
